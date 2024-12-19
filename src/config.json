@@ -9,9 +9,9 @@
 				"secure": false
 			}
 		],
-		"BOT_TOKEN": "",
-		"TEST_BOT_TOKEN": "",
-		"Mongo_DB": "",
+		"BOT_TOKEN": "MTMxODkzMzYyODkxODY5MzkzMA.Gi7ssp.B-v8sC1fmP00mPhEYmP6Vb0tlKllBc6t68t3fE",
+		"TEST_BOT_TOKEN": "MTMxODkzMzYyODkxODY5MzkzMA.Gi7ssp.B-v8sC1fmP00mPhEYmP6Vb0tlKllBc6t68t3fE",
+		"Mongo_DB": "mongodb+srv://hirifat77:rifat256@cluster0.lyzhr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 		"Prefix": "/",
 		"Basic_Lang": "AR",
 		"Status": "DND",
